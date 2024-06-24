@@ -14,8 +14,9 @@
 * [Televisión Canaria](https://www.youtube.com/watch?v=6LlZXt8nk4s)
 * [CGTN Español](https://espanol.cgtn.com/en-directo)
 * [Canal Once México](https://canalonce.mx/en-vivo)
-* [CNN Español](https://www.youtube.com/watch?v=JYyxZenCxb8)
 * [Telemundo](https://player.twitch.tv/?channel=tql_081rtt&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=chunked&volume=1)
 * [Univisión](https://player.twitch.tv/?channel=wtn_13kltt&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&quality=auto&volume=1)
+* [CNN Español](https://www.youtube.com/watch?v=JYyxZenCxb8)
+* [France24 Español](https://www.youtube.com/watch?v=Y-IlMeCCtIg)
 
 * [TeleBlanca](https://www.teleblanca.com/)
