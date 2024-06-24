@@ -7,3 +7,11 @@
 * [Canal Caribe](https://teveo.cu/live/video/d8wmFxA7rPfyctms)
 * [Canal Educativo 2](https://www.dailymotion.com/video/x82ug5r)
 * [RT Español](https://vk.com/video-61174019_456269244)
+
+# More TV
+
+* [DW Español](https://www.youtube.com/watch?v=Io5mt83nCcU)
+* [Televisión Canaria](https://www.youtube.com/watch?v=6LlZXt8nk4s)
+* [CGTN Español](https://espanol.cgtn.com/en-directo)
+* [Canal Once México](https://canalonce.mx/en-vivo)
+* [CNN Español](https://www.youtube.com/watch?v=JYyxZenCxb8)
