@@ -18,5 +18,6 @@
 * [Univisión](https://player.twitch.tv/?channel=wtn_13kltt&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&quality=auto&volume=1)
 * [CNN Español](https://www.youtube.com/watch?v=JYyxZenCxb8)
 * [France24 Español](https://www.youtube.com/watch?v=Y-IlMeCCtIg)
+* [euroNews Español](https://www.youtube.com/watch?app=desktop&v=O9mOtdZ-nSk)
 
 * [TeleBlanca](https://www.teleblanca.com/)
