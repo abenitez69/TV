@@ -5,7 +5,7 @@
 * [TeleRebelde](https://teveo.cu/live/video/zeZmyVqvdkR4GWRu/embed)
 * [Cubavisión Internacional](https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed)
 * [Canal Caribe](https://teveo.cu/live/video/d8wmFxA7rPfyctms/embed)
-* [Canal Educativo 2](https://www.dailymotion.com/video/x82ug5r)
+* [Canal Educativo 2](https://geo.dailymotion.com/player/xcuu1.html?video=x82ug5r&quality=240&info=0&logo=0)
 * [RT Español](https://vk.com/video-61174019_456269244)
 * [Señal ACN](https://teveo.cu/live/video/8bk77N7jh5CQBWCg/embed)
 
