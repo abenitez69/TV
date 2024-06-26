@@ -23,3 +23,5 @@
 
 * [TeleBlanca](https://www.teleblanca.com/)
 * [Sin Televisión HD](https://www.sintelevisionhd.com/)
+
+* [National Geographic](https://player.twitch.tv/?channel=ntg_q55&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&quality=auto&volume=1)
