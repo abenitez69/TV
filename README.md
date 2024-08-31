@@ -13,7 +13,7 @@
 
 * [DW Español](https://www.youtube-nocookie.com/embed/Io5mt83nCcU)
 * [Televisión Canaria](https://www.youtube-nocookie.com/embed/6LlZXt8nk4s)
-* [MírameTV Canaria] (https://mirametv.com/)
+* [MírameTV Canaria](https://mirametv.com/)
 * [CGTN Español](https://espanol.cgtn.com/en-directo)
 * [Canal Once México](https://canalonce.mx/en-vivo)
 * [Telemundo](https://player.twitch.tv/?channel=tql_081rtt&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=chunked&volume=1)
