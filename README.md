@@ -6,7 +6,7 @@
 * [Cubavisión Internacional](https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed)
 * [Canal Caribe](https://teveo.cu/live/video/d8wmFxA7rPfyctms/embed)
 * [Canal Educativo 2](https://geo.dailymotion.com/player/xcuu1.html?video=x82ug5r&quality=240&info=0&logo=0)
-* [Actualidad RT](https://actualidad.rt.com/en_vivo)
+* [Actualidad RT](https://rumble.com/embed/v5ctvar/?pub=277tem)
 * [RT Español](https://rumble.com/v5f4ztn-rt-en-vivo-247.html)
 * [Señal ACN](https://teveo.cu/live/video/8bk77N7jh5CQBWCg/embed)
 
