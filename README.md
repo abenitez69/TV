@@ -12,7 +12,7 @@
 
 # Televisión Internacional
 
-* [DW Español](https://www.youtube-nocookie.com/embed/Io5mt83nCcU)
+* [DW Español](https://www.youtube-nocookie.com/embed/g3vbKsbx87I)
 * [Televisión Canaria](https://www.youtube-nocookie.com/embed/6LlZXt8nk4s)
 * [MírameTV Canaria](https://mirametv.com/)
 * [CGTN Español](https://espanol.cgtn.com/en-directo)
