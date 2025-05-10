@@ -17,14 +17,8 @@
 * [MírameTV Canaria](https://mirametv.com/)
 * [CGTN Español](https://espanol.cgtn.com/en-directo)
 * [Canal Once México](https://canalonce.mx/en-vivo)
-* [Telemundo](https://player.twitch.tv/?channel=tql_081rtt&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=chunked&volume=1)
-* [Univisión](https://player.twitch.tv/?channel=wtn_13kltt&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&quality=auto&volume=1)
+* [TeleMadrid](https://www.youtube-nocookie.com/embed/u0KYoFaxRIo)
 * [National Geographic](https://player.twitch.tv/?channel=ntg_q55&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&quality=auto&volume=1)
 * [CNN Español](https://www.youtube-nocookie.com/embed/JYyxZenCxb8)
 * [France24 Español](https://www.youtube-nocookie.com/embed/Y-IlMeCCtIg)
 * [euroNews Español](https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk)
-
-* [TeleBlanca](https://www.teleblanca.com/)
-* [Sin Televisión HD](https://www.sintelevisionhd.com/)
-
-
