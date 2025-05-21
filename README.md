@@ -22,3 +22,4 @@
 * [CNN Español](https://www.youtube-nocookie.com/embed/JYyxZenCxb8)
 * [France24 Español](https://www.youtube-nocookie.com/embed/Y-IlMeCCtIg)
 * [euroNews Español](https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk)
+[HispanTV](https://rumble.com/v4wpjli-live.html)
